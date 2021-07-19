@@ -4,7 +4,7 @@
 # install it into $HOME/.nuget/plugins.
 # SEE: https://github.com/Microsoft/artifacts-credprovider/blob/master/README.md
 
-REPO="Microsoft/artifacts-credprovider"
+REPO="Sampension/artifacts-credprovider"
 FILE="Microsoft.NuGet.CredentialProvider.tar.gz"
 VERSION="latest"
 # URL pattern documented at https://help.github.com/en/articles/linking-to-releases as of 2019-03-29
